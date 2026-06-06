@@ -1,0 +1,8 @@
+pandas
+python-dotenv
+flask
+openai
+pinecone
+tiktoken
+langchain
+langchain-openai
